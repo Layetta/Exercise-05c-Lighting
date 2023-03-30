@@ -10,13 +10,12 @@ config_version=4
 
 _global_script_classes=[  ]
 _global_script_class_icons={
-
 }
 
 [application]
 
 config/name="Lighting"
-run/main_scene="res://World.tscn"
+run/main_scene="res://Assets/scene.gltf"
 config/icon="res://icon.png"
 
 [rendering]
